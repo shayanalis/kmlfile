@@ -1,4 +1,5 @@
 
 filename = 'line.kml'
-
-kmlwritepoint(filename,31.4688,74.4174)
+lat = Ways(1,1:13,1);
+lon = Ways(1,1:13,2);
+kmlwriteline(filename,lat,lon)
