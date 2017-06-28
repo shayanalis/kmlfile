@@ -2,13 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
    <Document>
       <name>line</name>
-      <Placemark>
+
          <Snippet maxLines="0"> </Snippet>
          <description> </description>
          <name>Line 1</name>
          <LineString>
             <coordinates> 74.4056877,31.4683428,0 74.4051968,31.466285,0 74.4052741,31.4658604,0 74.4054028,31.4656554,0 74.4056003,31.4654211,0 74.4058406,31.4652381,0 74.4061152,31.4650697,0 74.4063666,31.465006,0 74.4064328,31.4649892,0 74.407075,31.4648711,0 74.4123889,31.4638937,0 74.4136769,31.4636568,0</coordinates>
          </LineString>
-      </Placemark>
+
    </Document>
 </kml>
