@@ -1,4 +1,0 @@
-
-filename = 'line.kml'
-
-kmlwriteline(filename,,74.4174)
