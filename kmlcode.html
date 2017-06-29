@@ -21,7 +21,6 @@
   <body>
     <div id="map"></div>
     <script>
-
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 10,
@@ -30,7 +29,7 @@
 
         // NOTE: kml file specified in the url must be uploaded to a public server 
         var ctaLayer = new google.maps.KmlLayer({
-          url: 'https://github.com/shayanalis/kmlfile/raw/master/'+'line.kml',
+          url: 'https://github.com/shayanalis/kmlfile/raw/master/'+'point.kml',
           map: map
         });
       }
