@@ -5,4 +5,3 @@ lon = Ways(1,1:2,2);
 name = 'liner'
 description = 'this is a line';
 iconFilename = 'https://github.com/shayanalis/kmlfile/raw/master/icon.png';
-kmlwriteline(filename, lat, lon,'Description', description, 'Name', name,'Width',5)
